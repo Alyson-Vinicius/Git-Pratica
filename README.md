@@ -5,7 +5,7 @@ Esse é o start point para o nosso projeto 🚀
 ### Instruções (PT/BR)
 1. Faça um **Fork** deste repositório;
 2. Clone localmente: `git clone https://github.com/SEUUSERNAME/base-project.git`;
-3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/jrbarroz/base-project.git`;
+3. Adicione o remote upstream para manter seu repositório local atualizado: `git remote add upstream https://github.com/pauloJ-r/pratica-git.git`;
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar.
 4. Crie uma nova **branch** e nomeie como `feat/authors/seunomedeusuario`: `git checkout -b feat/authors/seunomedeusuario`;
     > Exemplo: `git checkout -b feat/authors/jrbarroz`
